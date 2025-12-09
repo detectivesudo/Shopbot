@@ -1,2 +1,2 @@
 # Shopbot
-testing 123
+use site links to automate    
